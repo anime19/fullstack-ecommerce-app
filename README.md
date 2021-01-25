@@ -1,4 +1,4 @@
-# ecommerce-frontend
+# fullstack-ecommerce-app
 
 ## Project setup
 ```
