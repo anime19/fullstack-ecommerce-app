@@ -1,6 +1,7 @@
-# Shoe-Cart (Ecommerce App) - Vue.js + Node.js + Express + MongoDB
+# Shoe-Cart (Ecommerce App) - Vue.js + Node.js + Express + MongoDB 
 
-Developing a **Shoe-Cart (Ecommerce) Application using Vue.js**
+**(currently under development phase)**
+
 
 This project was generated with [Vue CLI](https://github.com/vuejs/vue-cli) version **3.x**
 
